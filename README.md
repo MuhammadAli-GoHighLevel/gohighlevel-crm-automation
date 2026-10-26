@@ -62,7 +62,22 @@ GoHighLevel | CRM Automation | Email Automation | SMS Automation | Twilio | REST
 
 ## Project Demonstrations
 
-This repository currently contains documentation of a proposed reference workflow. Screenshots, configurations, and implementation examples will be added as they are created and verified.
+This repository includes GoHighLevel workflow documentation and screenshots demonstrating call handling, appointment follow-up, and duplicate lead detection automation.
+
+This section showcases examples of GoHighLevel automation workflows.
+
+### 1. Call Attended Automation
+
+![GoHighLevel Call Attended Automation](GHL%20Automation%20%28Call%20Attended%29.jpeg)
+
+### 2. Did Not Book Automation
+
+![GoHighLevel Did Not Book Automation](GHL%20Automation%20%28Did%20Not%20Book%29.jpeg)
+
+### 3. Duplicate Lead Detection Automation
+
+![GoHighLevel Duplicate Lead Detection](GHL%20Automation%20%28Duplicate%20Lead%20Detection%29.jpeg)
+
 
 ## About the Specialist
 
